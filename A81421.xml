@@ -1,0 +1,336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue betweene Sacke and Six.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81421</idno>
+            <idno type="STC">Wing D1323</idno>
+            <idno type="STC">Thomason E146_10</idno>
+            <idno type="STC">ESTC R18814</idno>
+            <idno type="EEBO-CITATION">99860470</idno>
+            <idno type="PROQUEST">99860470</idno>
+            <idno type="VID">112590</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112590)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E146[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue betweene Sacke and Six.</title>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Date and place of publication from Wing. Thomason copy bound with items from 1642.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Religion --  17th century --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112590:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWEENE SACKE AND SIX.</p>
+            <figure>
+               <figDesc>three scenes, showing 1. a man sitting on a bench 2. a man working a hat 3. three men: one on a donkey, one on foot and one on a horse</figDesc>
+               <p>Believe my Proteſtatio<g ref="char:cmbAbbrStroke">̄</g>
+               </p>
+               <p>Iudge gentlemen.</p>
+               <p>Valiant Sacke triumphant.</p>
+            </figure>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:112590:2"/>
+            <head>A DIALOG<g ref="char:V">Ʋ</g>E BETWEENE. <hi>SACKE</hi> and <hi>SIX.</hi>
+            </head>
+            <sp>
+               <speaker>
+                  <seg rend="decorInit">S</seg>ACK.</speaker>
+               <p>Full fraught with Nectarian liquor, that wine of the Gods, ſuch as <hi>Iupiter</hi> and my ſelfe drunke for our mornings draught; I am now come, Schiſmaticall Six, to blow thee up with the Powder-treaſon of Spaniſh Canary.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Schiſmaticall Sixes; tis eaſily imagined Sir, what countryman you are, your tongue betrayes you expreſſing your ſelfe in the langauge of the hell, which I rather beleive becauſe you come from the Divell of St. <hi>Dunſtons.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Alaſſe poore <hi>Iohn,</hi> I am ſorry to ſee thee thus diſtracted with penitentiall Beere, thy very Comportment argues thee to be water ſcared out of its wits.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>A mad couple well met, wee ſhall make two diſtracted aſſociates ile warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>And why, diſtracted aſſociates? Am I your fellow ſyrrah, faith Ile make you know your diſtance, ſtand off, Sixes, and come not neere me by fourty pole, leſt being diſcovered to be in your company I be branded with the Imputation of a madman for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Canary-bird, you whiſtle well I'th Spaniſh tongue, I woo'd you were well roaſted in true Engliſh, as the old Pro<g ref="char:EOLhyphen"/>verbe goes,</p>
+               <pb facs="tcp:112590:2"/>
+               <p>Who ſings a merrier a note,</p>
+               <p>Then he that is not worth a groate?</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>You take your ſelfe by the ſpicket, ſmale Beere, what need you have beene broacht ſoe ſoone, a cup of Canary would have done better for our mornings draught, I don't love to heare the divell correct vice, you tax me of ſpeaking Spaniſh ſo wel, and you your ſelfe ſpeak nothing but Schlavonian, I take you to be ſome Tranſlatour, by your metamorphos'd counte<g ref="char:EOLhyphen"/>nance, are you nothing allyed to the inſpir'd Cobler who of late preach'd the ſix ſhilling ſermon.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Truly, Sir, I have no reaſon to denie my profeſſion, and leſſe to be aſhamed of that holy man, who verily according to the fleſh was nothing allied to me, but wee were Couſen Ger<g ref="char:EOLhyphen"/>mans according to the ſpirit, being both fellow-labourers to<g ref="char:EOLhyphen"/>gether, and preaching in private Conventicles accordingly.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Tis well that at laſt you can tickle your ſermons there, is there ſuch vertue in ſmall beere? I'faith I had little thought it! but ſeriouſly out of my wine let me aske thee one queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>I'le reſolve you as the ſpirit ſhall enable me.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Doe you conceive that you are bound in conſcience to preach the word?</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Yes verily, I am ſo, having the charge of ſo many ſoules.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Away you hypocriticall knave, take heed of marring new ſoules, and looke to the mending of your old ſhooes?</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>You know not who you revile, you reproach him that ſent me, I would my ſtanding up were laſting, as my profeſſion is lawfull, were not <hi>Andrew</hi> and <hi>Peter</hi> Fiſhermen, <hi>Mathew</hi> a Publican, yet made Apoſtles and Teachers.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Tis true they were call'd to it, but now there is no ne<g ref="char:EOLhyphen"/>ceſſity that the word of God ſhould be thum'd with the defiled fingers of a contemptible Cobler.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>But you know the ſcripture ſaith; It hath pleaſed God by the fooliſhneſſe of preaching to ſave many that believe.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Tis right, now I know the reaſon why there are ſo
+<pb facs="tcp:112590:3"/>many fooliſh preachers ſelected out of the Tribe of the Cob<g ref="char:EOLhyphen"/>lers, Weavers, Porters, Feltmakers, Chimmſwepers, &amp; the like.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Well, I perceive I have met with a ſcholar, I am afraid I have taken the wrong ſow by the eare, entring into the liſts of diſputation with ſwiniſh <hi>Ariſtippus,</hi> thouart puft up with Canary of ſelfe conceitedneſſe, and ſuch kind of jeering hath diſtracted thee.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>And thou art diſtracted without any learning at all.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Well theſe are but words of courſe; to the purpoſe now, lets ſee whether you or I have the more followers, that one of us may carry the credit of it in concluſion.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Twas that I lookt for, and becauſe I take my ſelf to be the better man of the two, Ile make the firſt onſet: My beſt Profici<g ref="char:EOLhyphen"/>ents Ile place in the forefront of the reſt, what ſay you to the blith Biſhops, are not they inſpir'd with my canary? Could ever Canterbury have clim'd to that place of Eminency as to over<g ref="char:EOLhyphen"/>looke the whole Church of England, I and Kingdome too, and never regard himſelfe, had it not beene by my dexterity? From whence received he that power to ſtagger the ſtate; yea reli<g ref="char:EOLhyphen"/>gion, and himſelfe at laſt, (being now fallen outright) but by Iu<g ref="char:EOLhyphen"/>riſdiction derived from the Canary Ilands? And how is't poſſi<g ref="char:EOLhyphen"/>ble (I preethee) that <hi>Wren</hi> ſhould ſoare ſo high (that Arminian bird) and ſilenc't three ſcore in Norfolke, and Suffolke, and now be ſilenc'd himſelfe, but by the wings of my encouragement?</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Nor let the glory of this victory attend upon you only, but take a partner with you. Was it not I that laid the founda<g ref="char:EOLhyphen"/>tion of this greatneſſe in Canterbury at firſt? that gave him his breeding in Saint <hi>Iohns</hi> in Oxford? where being a poore Schol<g ref="char:EOLhyphen"/>ler, he was glad to ſip ſingle Six, excepting upon Feſtival daies, and now of late perceiving you had inflam'd him with wine, the incendiary of ambitious thoughts, have not I coold his cou<g ref="char:EOLhyphen"/>rage with the water of affliction? And for <hi>Wren,</hi> ſo ſoone as I perceived the flame of his fiery zeal in perſecuting the Church, have not I now allayed it with the coolneſſe of my moderation,
+<pb facs="tcp:112590:3"/>and wetting thoſe wings that mounted ſo high, have not I with diſcretion confin'd him to his neſt?</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>But what thinke you of the reverend Iudges? had not I ſuch an operative power over one of them ſitting upon the bench, that made him fall from his Tribunall, and ſtagger from Weſtminſter hall to the Sherifes houſe in London?</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>I alſo have ſome ſhare in his converſion; when a Stu<g ref="char:EOLhyphen"/>dent at the Innes of Court, was hee not well ſatisfied with the earthen pots of Sixes, which I out of my liberality afforded him, excepting the dayes of the Readers Feſtivals?</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>I thinke now you muſt yeeld; are you able to conteſt any longer? I have alſo the aſſiſtance of the religious Alder<g ref="char:EOLhyphen"/>men, here's my chiefe favourite (to ſpeake nothing of him that late broke) even <hi>Abel</hi> himſelfe, whom I appointed Lord Pre<g ref="char:EOLhyphen"/>ſident of the Canary Iland, and chiefe Monopolizer of the Wines here in London, which wrought ſo powerfully in him to his repentance, that hee is contented to remaine under the Rod, which notwithſtanding a ſharpe puniſhment, yet he's the leſſe ſenſible of it in regard of the ſweetneſſe of my Canary.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Troth ſir, I muſt be bold with you to chalenge a ſhare in him too. Was not he one of my Linſey woolſey Citizens? did not I make him ſerve an apprentiſhip to Maſter Sixes? and that time being expired, was he not glad (ſaving the Feaſts of the Companies, Shrievalty, and Maioralty) to weare the live<g ref="char:EOLhyphen"/>ry of Small Beere, till his comming to your wine Office?</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>I am almoſt out of breath, let's heare you make an A<g ref="char:EOLhyphen"/>pology for your diſciples, as I have done for mine.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>I am prepared for the buſineſſe; by your favour, my Lord, thoſe of mine owne Tribe ſhall be preſent before you.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Draw the threed of your diſcourſe methodically.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>How did I inſpire that Cobler, who onely by clenſing his brain with my liquor, cleared his whiſtle ſo well be preacht a Sermon of an houre and a halfe, and that againſt knowledge?</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>The crowne of this Trophee belongs to me; was not
+<pb facs="tcp:112590:4"/>that learned Sermon preached in a Taverne hard by Covent garden, where the ſecret vertue of the wines influence of a ſud<g ref="char:EOLhyphen"/>den ariſing into his braine, made all the briſtles of knowledge ſtand upright in him, that he queſtioned our Saviour himſelfe as not capable of humane learning.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>But I tell you of another miraculous paſſage effected by me alone. I know a Tailor (but he lives out of the Kings domini<g ref="char:EOLhyphen"/>ons) who (not for drinking onely, but even for dealing in ſmall Beere) was growne ſo zealous of a ſudden, that he could not in his conſcience ſuffer his childe, by his owne Miniſter, to bee ſigned with the ſigne of the Croſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>'Twas I that did the feat, though the glory be attribu<g ref="char:EOLhyphen"/>ted to another: I know the zealots of London make it an ef<g ref="char:EOLhyphen"/>fect of penitentiall Beere, but if you'll beleeve my proteſtation, before <hi>Bacchus</hi> I was the man, watching my opportunity at a marriage, where he, amongſt others was invited; having in<g ref="char:EOLhyphen"/>couraged him to drinke up a good ſhare of the Wine: Firſt, I meaſured his ſhallow braine with the yard-wand of my appre<g ref="char:EOLhyphen"/>henſion; next, (that I might leave him as little judgement as I found) with the ſheares of diſcretion I cut off the ſhreds of Vn<g ref="char:EOLhyphen"/>derſtanding that remained in him, and then (knowing that that afternoone his childe was to be baptized, I prickt his conſcience with the needle of ſincerity, then verily and truly he would by no meanes have his child ſigned with the ſigne of the Croſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>To relate ſomething more of my conqueſts, was it not the chaſte operation of my liquor that cauſed the Adamites now of late to aſſemble naked and (as if it were in the time of innocency it ſelfe) male and female to boaſt and glory of their ſhame? Did not I by my infuſion ſo mortifie their carnall luſts, that (untill the Sermon was done, and the Candles pur<g ref="char:EOLhyphen"/>poſely put out) there was no reſerrection of the fleſh?</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>Miſtake not your ſelfe, Sixes, ſet the ſaddle upon the right horſe, (removing it from the Aſſe) was it not the glowing heat of my ineſtimable Canary that did ſo fortifie their bodies
+<pb facs="tcp:112590:4"/>againſt cold, that they goe naked to this very day? And did not the admirable operation of my cordiall grape cauſe them to preach devoutly in thoſe pulpits they brought along with them? and ſo (as tis very comely) did encreaſe and multiply.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Adde one thing more to the eternall renowne of Six, the enabling of ſix women to preach devoutly up and downe the City, by vertue of this heavenly potion, in regard their huſ<g ref="char:EOLhyphen"/>bands cannot ſufficiently preach to them at home.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>If now adayes there be any faculty of preaching, tis becauſe they are inſpired by me. Six, thou art diſtracted with a phrenſie, yet thy diſeaſe is not ſo deſperate, but there's a cure, wherefore I'de adviſe you fort with to take 6. pottells of the luſtieſt Canary, drinke it all with diſcretion morning and even<g ref="char:EOLhyphen"/>ing, and all the reſt of the day beſides with conſtancy, and in a ſhort time you ſhall finde theſe admirable effects: your ſhallow braines floting on the top of this Canary Iland ſhall be clenſed from the ſlimineſſe of ignorance, waſhed from the froth of ſelf-conceit, and abſolutely cured of the Calinture of diſtraction.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Tis ad admirable cure Sir! but methinkes Sixes ſhould doe the ſame in effect.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>By the wine I drinke, I am almoſt deſtracted in the ve<g ref="char:EOLhyphen"/>ry mentioning of that white liverd Raſcall, away with it, tis Hereticall, ſit for none but Calvinians, Anabaptiſts, and that fellow in his Sermon at St. Margrets would aime at nothing but elſe the pulling downn of Charing and Cheapſide Croſſes, his doctrine was ſutable to a cup of ſixes; If any one will follow the advice of <hi>Ariſtippus,</hi> let him drinke Sack.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>I care not if I pledge you a cup ſo it be with moderation.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>I hope you will drinke according to the times; the times require no ſuch moderation I warrant you.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>But you tould me I ſhould drinke it Phyſically, Phyſick you know muſt be taken by degrees.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>So: wel' drink by degrees, lets drink each of us a pottle now which is the poſitive, and you ſhall the ſooner come to the
+<pb facs="tcp:112590:5"/>ſuparlative, or if you will have mee temporiſe a little, the Puri<g ref="char:EOLhyphen"/>tan being a Proteſtant ſcar'd out of his wits, is the Poſitive; The Browneſt bring a deep dyed Puritan, is the Comparative; The Anabaptiſt, which is a deep dyed Browniſt is the Suparlative Sciſmaticke of all.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>Sir while you were ſpeaking I drunke up my ſhare, and I find already a trombling and ſhaking of my joynts a ſwiftneſſe and volubility in my tongue, an Earthquake in my Pericranium and a noyſe ſo loud as though the Cyclopes were forging thun<g ref="char:EOLhyphen"/>der in my braine.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>You ſee then the effect of it, it makes a tremling in the members of the Common-wealth, the very foundations of the Kingdome are ſhaken a ſwifneſſe in the tongues of ſilenc't Mi<g ref="char:EOLhyphen"/>niſters to preach Sciſmaticall doctrine, the diſtemperature of the head it ſelfe, and the murmur of the multitude, like the ra<g ref="char:EOLhyphen"/>ging of the Sea crying againſt conformity, and the Epiſcopacy it ſelfe, downe with it, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>For Godſake, Sir, be ſilent, inſtead of curing my brains breake not my brainpan, let mee take a nap and refreſh my ſelfe that I may take ſome more of your phyſick another time.</p>
+            </sp>
+            <sp>
+               <speaker>Sack.</speaker>
+               <p>With a condition you will put in ſecurity that your brains ſhall be forth coming to morrow morning.</p>
+            </sp>
+            <sp>
+               <speaker>Six.</speaker>
+               <p>They are coming forth to night without any ſecurity at all; So ſhaking hands they departed.</p>
+            </sp>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
